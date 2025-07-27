@@ -1,5 +1,10 @@
 # otp-validator
-Created with CodeSandbox
+## 📁 How this Works:
+- Built using React functional components
+- Uses `useRef` for auto-focusing inputs
+- Validates numeric OTP inputs
+- Keyboard-friendly (Backspace supported)
+
 
 
 ## 🔗 Live Preview
