@@ -9,5 +9,7 @@ Created with CodeSandbox
 - Source code: https://github.com/Tausif282/otp-validator
 
 
-Uploading Screen Recording 2025-07-27 at 5.01.57 PM.mov…
+
+
+![otpValidator](https://github.com/user-attachments/assets/50cfbcbd-ea2b-47a0-a9c9-e1ab444a7c4c)
 
